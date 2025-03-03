@@ -1,7 +1,7 @@
-const appId = "nuttys-ytmdesktop-widget";
-const appName = "nuttys YouTube Music Widget";
+const appId = "bersocial-ytmdesktop-widget";
+const appName = "bersocial YouTube Music Widget";
 const appVersion = "1.0.0";
-const baseURL = "http://nuttylmao.github.io/youtube-music-widget";
+const baseURL = "http://bersocial.github.io/youtube-music-widget";
 
 let browserSourceURL = ""
 
